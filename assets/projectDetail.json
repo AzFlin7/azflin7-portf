@@ -1,6 +1,23 @@
 [
   {
     "id":1,
+    "filter": "filter-other",
+    "category":"Crypto game, NFT Game",
+    "title":"WildWarZ - Crypto Game",
+    "img":"wildwarz-1.png",
+    "link":"https://wildwarz.com/",
+    "client":"Prabhat Chugh",
+    "description":"WildWarZ is a play to earn NFT game based on Polygon Blockchain. Play with companion, earn $WIND, stake $WILD, trade NFTs & govern DAO.",
+    "imgs": [
+      "wildwarz-1.png",
+      "wildwarz-2.png",
+      "wildwarz-3.png",
+      "wildwarz-4.png",
+      "wildwarz-5.png"
+    ]
+  },
+  {
+    "id":8,
     "filter": "filter-defi",
     "category":"Defi",
     "title":"XRPL Token LaunchPad",
@@ -29,6 +46,50 @@
   },
   {
     "id":3,
+    "filter": "filter-tg",
+    "category":"Crypto Telegram Bot",
+    "title":"Autoseller Telegram Bot",
+    "img":"autoseller-tg-bot-1.png",
+    "link":"https://t.me/instaViPN_bot",
+    "client":"Aiogram",
+    "description":"Bot auto sales of digital goods (subscription to VPN) using API Yoomoney and MongoDB. Added possibility to pay with cryptocurrency (bitcoin) powered by the Sellix API",
+    "imgs": [
+      "autoseller-tg-bot-1.png",
+      "autoseller-tg-bot-2.png"
+    ]
+  },
+  {
+    "id":4,
+    "filter": "filter-web",
+    "category":"NFT Marketplace",
+    "title":"Rarible - aggregated NFT marketplace with rewards",
+    "img":"rarible-1.png",
+    "link":"https://rarible.com/",
+    "client":"Rarible",
+    "description":"Online marketplace offers a platform for users to securely buy, sell, and discover digital assets. It features a wide range of collections, including art, fashion, science, and gaming.",
+    "imgs": [
+      "rarible-1.png",
+      "rarible-2.png",
+      "rarible-3.png",
+      "rarible-4.png"
+    ]
+  },
+  {
+    "id":5,
+    "filter": "filter-tg",
+    "category":"Crypto Telegram Bot",
+    "title":"Crypto Wallet Tracker - Telegram Bot",
+    "img":"wallet-tracker-1.png",
+    "link":"https://t.me/cankat",
+    "client":"-",
+    "description":"This is a Telegram bot that tracks the transactions of added Ethereum (ETH) and Binance Coin (BNB) wallets and sends notifications whenever a new transaction occurs. The bot uses the Etherscan and BSCscan APIs to gather information about transactions, and CoinGecko to fetch the current prices of ETH and BNB.",
+    "imgs": [
+      "wallet-tracker-1.png",
+      "wallet-tracker-2.png"
+    ]
+  },
+  {
+    "id":6,
     "filter": "filter-defi",
     "category":"DeFi, Swap Serices, Smart Contract, Marketplace Development",
     "title":"Token Staking progam - Pocket Change",
@@ -39,6 +100,23 @@
     "imgs": [
       "staking1.jpg",
       "staking2.webp"
+    ]
+  },
+  {
+    "id":7,
+    "filter": "filter-web",
+    "category":"NFT Marketplace",
+    "title":"The Diamond Hands - NFT",
+    "img":"diamondhand-1.png",
+    "link":"https://www.thediamondhands.io/",
+    "client":"Brandon Ballina",
+    "description":"The Diamond Hands is a collection of 11111 programmatically, randomly generated NFTs on the Ethereum blockchain.",
+    "imgs": [
+      "diamondhand-1.png",
+      "diamondhand-2.png",
+      "diamondhand-3.png",
+      "diamondhand-4.png",
+      "diamondhand-5.png"
     ]
   }
 ]
