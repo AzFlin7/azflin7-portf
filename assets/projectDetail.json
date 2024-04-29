@@ -1,0 +1,44 @@
+[
+  {
+    "id":1,
+    "filter": "filter-defi",
+    "category":"Defi",
+    "title":"XRPL Token LaunchPad",
+    "img":"XRPL-1.png",
+    "link":"https://xrplpad.io/",
+    "client":"XRPL Dapp",
+    "description":"XRPL PAD is DeFi platform built on XRP. It features a DEX where users can swap different XRP based cryptos and provite liquidity in exchange for rewards. This XRPL Dapp launches new token on XRP Ledger. The Owner of the project can launch the project and users will deposit. This Deposit is safe because - if project's fund reaches to soft cap, the token is distributed automatically to the users who deposited - if not, deposited funds will be refunded to the users' wallet programmatically. People will be interested in investment because they won't lose anything whether project is successful or not.",
+    "imgs": [
+      "XRPL-1.png",
+      "XRPL-2.png",
+      "XRPL-3.png"
+    ]
+  },
+  {
+    "id":2,
+    "filter": "filter-card",
+    "category":"Smart Contract Development",
+    "title":"ERC404 Smart Contract Development",
+    "img":"erc404.webp",
+    "link":"https://opensea.io/collection/project-2049",
+    "client":"4614FE (Opensea User)",
+    "description":"Writed an ERC404 smart contract. Deployed this on ethereum mainnet. Listed NFTs on opensea. Made a liquidity on Uniswap V3. Please check this tokesn on dextool Deployment link: https://opensea.io/collection/project-2049",
+    "imgs": [
+      "erc404.webp"
+    ]
+  },
+  {
+    "id":3,
+    "filter": "filter-defi",
+    "category":"DeFi, Swap Serices, Smart Contract, Marketplace Development",
+    "title":"Token Staking progam - Pocket Change",
+    "img":"staking1.jpg",
+    "link":"https://pocketchange.host/",
+    "client":"Pocket Change",
+    "description":"Token Staking Staking program, such as the length of the staking period, the rewards structure, and the minimum and maximum staking amounts. Design the token staking smart contract, including the logic for calculating rewards, distributing rewards to stakers, and handling the release of staked tokens. Demo: https://pocketchange.host/ - Token trading - Smart contract - Marketplace development - Reward system implementation - Swap services - DeFi development",
+    "imgs": [
+      "staking1.jpg",
+      "staking2.webp"
+    ]
+  }
+]
