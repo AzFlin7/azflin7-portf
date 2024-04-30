@@ -118,5 +118,22 @@
       "diamondhand-4.png",
       "diamondhand-5.png"
     ]
+  },
+  {
+    "id":9,
+    "filter": "filter-web",
+    "category":"NFT Marketplace",
+    "title":"fayre.com - Part NFT Marketplace,  Part Fan Activation Hub",
+    "img":"fayre-1.png",
+    "link":"https://www.thediamondhands.io/",
+    "client":"Brandon Ballina",
+    "description":"The Diamond Hands is a collection of 11111 programmatically, randomly generated NFTs on the Ethereum blockchain.",
+    "imgs": [
+      "fayre-1.png",
+      "fayre-2.png",
+      "fayre-3.png",
+      "fayre-4.png",
+      "fayre-5.png"
+    ]
   }
 ]
