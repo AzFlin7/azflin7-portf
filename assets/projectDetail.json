@@ -135,5 +135,18 @@
       "fayre-4.png",
       "fayre-5.png"
     ]
+  },
+  {
+    "id":10,
+    "filter":"Smart Contract, Solana Bitcoin Bridge",
+    "title" : "EggSwap - Solana Bitcoin Bridge",
+    "img":"sol_bitcoin_bridge-1.png",
+    "link":"https://eggswap.org/",
+    "description": "We have created a blockchain bridge allowing the transfer of BRC20 tokens between the Bitcoin (BTC) blockchain and the Solana blockchain like Sobit bridge. It includes a BTC wallet for token lock/release, a Solana smart contract for minting/burning tokens, and a Node.js Application For Cross-chain communication. We integrated Unisat wallet and Phantom wallet. We made a solana token smart contract as we need to perform token minting and burning corresponding to BTC transactions.",
+    "client" :"-",
+    "imgs": [
+      "sol_bitcoin_bridge-1.png",
+      "sol_bitcoin_bridge-2.png"
+    ]
   }
 ]
