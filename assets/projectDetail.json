@@ -1,7 +1,7 @@
 [
   {
     "id":1,
-    "filter": "filter-other",
+    "filter": "filter-blockchain",
     "category":"Crypto game, NFT Game",
     "title":"WildWarZ - Crypto Game",
     "img":"wildwarz-1.png",
@@ -18,7 +18,7 @@
   },
   {
     "id":8,
-    "filter": "filter-defi",
+    "filter": "filter-blockchain",
     "category":"Defi",
     "title":"XRPL Token LaunchPad",
     "img":"XRPL-1.png",
@@ -33,7 +33,7 @@
   },
   {
     "id":2,
-    "filter": "filter-card",
+    "filter": "filter-blockchain",
     "category":"Smart Contract Development",
     "title":"ERC404 Smart Contract Development",
     "img":"erc404.webp",
@@ -46,7 +46,7 @@
   },
   {
     "id":3,
-    "filter": "filter-tg",
+    "filter": "filter-blockchain",
     "category":"Crypto Telegram Bot",
     "title":"Autoseller Telegram Bot",
     "img":"autoseller-tg-bot-1.png",
@@ -60,7 +60,7 @@
   },
   {
     "id":4,
-    "filter": "filter-web",
+    "filter": "filter-blockchain",
     "category":"NFT Marketplace",
     "title":"Rarible - aggregated NFT marketplace with rewards",
     "img":"rarible-1.png",
@@ -76,7 +76,7 @@
   },
   {
     "id":5,
-    "filter": "filter-tg",
+    "filter": "filter-blockchain",
     "category":"Crypto Telegram Bot",
     "title":"Crypto Wallet Tracker - Telegram Bot",
     "img":"wallet-tracker-1.png",
@@ -90,7 +90,7 @@
   },
   {
     "id":6,
-    "filter": "filter-defi",
+    "filter": "filter-blockchain",
     "category":"DeFi, Swap Serices, Smart Contract, Marketplace Development",
     "title":"Token Staking progam - Pocket Change",
     "img":"staking1.jpg",
@@ -104,7 +104,7 @@
   },
   {
     "id":7,
-    "filter": "filter-web",
+    "filter": "filter-blockchain",
     "category":"NFT Marketplace",
     "title":"The Diamond Hands - NFT",
     "img":"diamondhand-1.png",
@@ -121,7 +121,7 @@
   },
   {
     "id":9,
-    "filter": "filter-web",
+    "filter": "filter-blockchain",
     "category":"NFT Marketplace",
     "title":"fayre.com - Part NFT Marketplace,  Part Fan Activation Hub",
     "img":"fayre-1.png",
@@ -138,7 +138,8 @@
   },
   {
     "id":10,
-    "filter":"Smart Contract, Solana Bitcoin Bridge",
+    "filter":"filter-blockchain",
+    "category":"Solana Bitcoin Bidge",
     "title" : "EggSwap - Solana Bitcoin Bridge",
     "img":"sol_bitcoin_bridge-1.png",
     "link":"https://eggswap.org/",
@@ -147,6 +148,299 @@
     "imgs": [
       "sol_bitcoin_bridge-1.png",
       "sol_bitcoin_bridge-2.png"
+    ]
+  },
+  {
+    "id":51,
+    "filter": "filter-game",
+    "category":"Casino Slot Game",
+    "title":"The Dog House",
+    "img":"doghouse1.png",
+    "link":"https://casino.guru/the-dog-house-slot-play-free",
+    "client":"Guru",
+    "description":"In this game development, I participated in the front-end development of the game using godot.Due to my high responsibility and neatness, this game has received a high reputation from users.",
+    "imgs": [
+      "doghouse1.png",
+      "doghouse2.png",
+      "doghouse3.png",
+      "doghouse4.png"
+    ]
+  },
+  {
+    "id":52,
+    "filter": "filter-game",
+    "category":"Casino Slot Game",
+    "title":"Da Vinci’s Treasure Slot Game",
+    "img":"davinci1.png",
+    "link":"https://casino.guru/da-vinci-s-treasure-slot-play-free",
+    "client":"Guru",
+    "description":"In this game development, I participated in the front-end development of the game using godot.Due to my high responsibility and neatness, this game has received a high reputation from users.",
+    "imgs": [
+      "davinci1.png",
+      "davinci2.png",
+      "davinci3.png",
+      "davinci4.png"
+    ]
+  },
+  {
+    "id":53,
+    "filter": "filter-game",
+    "category":"Casino Slot Game",
+    "title":"Wild Depth Slot Game",
+    "img":"wilddepth1.png",
+    "link":"https://casino.guru/wild-depths-slot-play-free",
+    "client":"Guru",
+    "description":"In this game development, I participated in the front-end development of the game using godot. And also developed Back-End using ASP.NET. Due to my high responsibility and neatness, this game has received a high reputation from users.",
+    "imgs": [
+      "wilddepth1.png",
+      "wilddepth2.png",
+      "wilddepth3.png",
+      "wilddepth4.png"
+    ]
+  },
+  {
+    "id":54,
+    "filter": "filter-game",
+    "category":"Card Game",
+    "title":"Poker",
+    "img":"poker1.png",
+    "link":"https://casino.guru/6-up-pocket-poker-play-free",
+    "client":"Guru",
+    "description":"In this game development, I participated in the front-end development of the game using Unity. I received a high reputation from users due to my high design skills.",
+    "imgs": [
+      "poker1.png",
+      "poker2.png",
+      "poker3.png"
+    ]
+  },
+  {
+    "id":55,
+    "filter": "filter-game",
+    "category":"Card Game",
+    "title":"Uno Game",
+    "img":"uno1.png",
+    "link":"https://lagged.com/en/g/uno-multiplayer-free-online",
+    "client":"Guru",
+    "description":"In this game development, I participated in the back-end development of the game using Smart Fox. I received a high feedback from clinet due to my high design skills.",
+    "imgs": [
+      "uno1.png",
+      "uno2.png",
+      "uno3.png",
+      "uno4.png"
+    ]
+  },
+  {
+    "id":56,
+    "filter": "filter-game",
+    "category":"BC Game",
+    "title":"Crash",
+    "img":"crash1.png",
+    "link":"https://stake.us/casino/games/crash",
+    "client":"stake company",
+    "description":"In this game development, I participated in front-end and back-end development of the game using pixiJS and ASP.NET. I received a high reputation from users due to my high design skills and sense of responsibility.",
+    "imgs": [
+      "crash1.png",
+      "crash2.png",
+      "crash3.png"
+    ]
+  },
+  {
+    "id":57,
+    "filter": "filter-game",
+    "category":"BC Game",
+    "title":"Keno",
+    "img":"keno1.png",
+    "link":"https://stake.us/casino/games/keno",
+    "client":"stake company",
+    "description":"In this game development, I participated in front-end and back-end development of the game using pixiJS and ASP.NET. I received a high reputation from users due to my high design skills and sense of responsibility.",
+    "imgs": [
+      "keno1.png",
+      "keno2.png",
+      "keno3.png"
+    ]
+  },
+  {
+    "id":58,
+    "filter": "filter-game",
+    "category":"P2e Game",
+    "title":"Flappybee",
+    "img":"flappybee1.png",
+    "link":"https://flappybee.com",
+    "client":"https://t.me/FlappyBee_BSC",
+    "description":"In this project, i built both frontend & backend, smart contract based on eth. Used MERN stack to store all scores into database and implement reward system using auto withdraw function from backend & smart contract side. Also, built p2e game as flappy and then add some logic to make it fun depending on BEE NFT.",
+    "imgs": [
+      "flappybee1.png",
+      "flappybee2.png",
+      "flappybee3.png"
+    ]
+  },
+  {
+    "id":59,
+    "filter": "filter-game",
+    "category":"Racing Game",
+    "title":"racing-empire",
+    "img":"racing1.png",
+    "link":"https://www.crazygames.com/game/racing-empire",
+    "client":"crazygames.com",
+    "description":"This is a Telegram bot that tracks the transactions of added Ethereum (ETH) and Binance Coin (BNB) wallets and sends notifications whenever a new transaction occurs. The bot uses the Etherscan and BSCscan APIs to gather information about transactions, and CoinGecko to fetch the current prices of ETH and BNB.",
+    "imgs": [
+      "racing1.png",
+      "racing2.png",
+      "racing3.png"
+    ]
+  },
+  {
+    "id":60,
+    "filter": "filter-game",
+    "category":"Blockchain Minimap Game",
+    "title":"Ton Jump Game",
+    "img":"tongame1.png",
+    "link":"https://t.me/tonjump_game",
+    "client":"Vladislav",
+    "description":"While working on this project, I responsible for the in-game sprite store with coin purchase and block purchase system. to briefly introduce this function, all existing and future players will be credited with 2000 coins, of which 500 coins can be spent on building a game level and 1500 coins on purchasing sprites in the store. if a player needs more coins for building a large level, they can purchase coins with TON and spend them on buying various blocks",
+    "imgs": [
+      "tongame1.png",
+      "tongame2.png"
+    ]
+  },
+  {
+    "id":151,
+    "filter": "filter-fullstack",
+    "category":"E-Commerce",
+    "title":"Target Brand",
+    "img":"target.jpg",
+    "link":"https://www.target.com/",
+    "client":"Target Brand Inc",
+    "description":"Target.com is the online presence of Target Corporation, built with Next.JS, a major American retailer known for offering a wide range of products, including clothing, electronics, toys, groceries, and home goods. The website provides a convenient shopping experience with features like online deals, Target Circle offers, and RedCard discounts. It's designed to cater to various shopping needs, from everyday essentials to seasonal items, and allows customers to shop both online and in-store. Additionally, Target Corporation's website includes information about their mission, values, history, and corporate responsibility initiatives.",
+    "imgs": [
+      "target.jpg",
+      "target01.jpg"
+    ]
+  },
+  {
+    "id":152,
+    "filter": "filter-fullstack",
+    "category":"E-Commerce",
+    "title":"OUTFITTERY",
+    "img":"outfit1.png",
+    "link":"https://www.outfittery.de/",
+    "client":"",
+    "description":"OutFittery offers a unique styling service for men, built with Next.JS, providing personalized outfits selected by professional stylists. Customers receive a curated box of clothes to try at home, paying only for what they keep. This service combines convenience with tailored fashion advice, revolutionizing the shopping experience.",
+    "imgs": [
+      "outfit1.png",
+      "outfit2.png"
+    ]
+  },
+  {
+    "id":153,
+    "filter": "filter-fullstack",
+    "category":"E-Commerce",
+    "title":"UHR INSTINKT",
+    "img":"uhr1.png",
+    "link":"https://www.uhrinstinkt.de/",
+    "client":"",
+    "description":"Uhrinstinkt is an online retailer specializing in luxury watches built with Nuxt.JS. They offer a wide range of exclusive watch brands and boast a large inventory with over 1,500 models in stock. Customers have the benefit of a 21-day return policy and the convenience of free shipping. The website emphasizes low prices and provides free consultation to assist buyers in selecting the perfect timepiece. Whether you're looking to buy, sell, or find a specific watch, Uhrinstinkt aims to cater to various needs related to luxury watches.nt colors and intricate designs for you wardrobe.",
+    "imgs": [
+      "uhr1.png",
+      "uhr2.png"
+    ]
+  },
+  {
+    "id":154,
+    "filter": "filter-fullstack",
+    "category":"E-Learning",
+    "title":"ETHAN HATHAWAY",
+    "img":"www.ethanhathaway.com.jpg",
+    "link":"https://www.ethanhathaway.com/",
+    "client":"",
+    "description":"Ethan Hathaway is a leading provider of business and finance education, offering a wide array of courses for professionals looking to enhance their skills and knowledge, built with ASP.NET + Python. They cover a broad range of topics, including asset management, corporate finance, risk management, leadership, and much more. Their courses are designed by industry experts and aim to be practical, applicable, and valuable for career growth.",
+    "imgs": [
+      "www.ethanhathaway.com.jpg",
+      "www.ethanhathaway.com1.jpg"
+    ]
+  },
+  {
+    "id":155,
+    "filter": "filter-fullstack",
+    "category":"E-Learning",
+    "title":"SUNY",
+    "img":"suny.jpg",
+    "link":"https://www.suny.edu/",
+    "client":"",
+    "description":"The State University of New York (SUNY) is the largest comprehensive university system in the United States, built with Python. It encompasses 64 institutions, including research universities, academic medical centers, liberal arts colleges, community colleges, colleges of technology, and an online learning network. SUNY offers a wide range of programs and degrees, and it has a significant impact on education, research, and the economy in New York.",
+    "imgs": [
+      "suny.jpg",
+      "suny1.png"
+    ]
+  },
+  {
+    "id":156,
+    "filter": "filter-fullstack",
+    "category":"E-Learning",
+    "title":"LEARN PAC",
+    "img":"learnpac.jpg",
+    "link":"https://learnpac.co.uk/",
+    "client":"",
+    "description":"LearnPac Systems is a prominent UK provider of accredited online training courses, e-learning programmes, and internationally recognized qualifications, built with Go Language for backend and React for the frontend. They offer over 500 online training programmes across various sectors, accessible through their interactive online learning portal. With over a decade of experience in the e-learning industry, LearnPac Systems provides a free blended learning environment that can be customized to individual organizations, regardless of size or sector.",
+    "imgs": [
+      "learnpac.jpg",
+      "learnpac2.jpg"
+    ]
+  },
+  {
+    "id":157,
+    "filter": "filter-fullstack",
+    "category":"Finance",
+    "title":"BONOKEY",
+    "img":"bonokey.jpg",
+    "link":"https://bonokey.com/",
+    "client":"",
+    "description":"Bonokey.com emerges as a pioneering digital platform dedicated to demystifying the banking landscape of Saudi Arabia for its users. With a commitment to providing comprehensive, up-to-date information on various banks across the kingdom, Bonokey.com stands as a critical resource for anyone looking to navigate the complexities of banking services. This platform is meticulously crafted using cutting-edge technologies such as Next.js , PostgreSQL, and ChatGPT-4, supplemented by advanced SEO strategies and the Prisma ORM, to ensure a seamless, informative, and interactive user experience.",
+    "imgs": [
+      "bonokey.jpg",
+      "bonokey2.jpg"
+    ]
+  },
+  {
+    "id":158,
+    "filter": "filter-fullstack",
+    "category":"Finance",
+    "title":"DX Compliance Solution",
+    "img":"dxcompliance.png",
+    "link":"https://dxcompliance.com/",
+    "client":"",
+    "description":"DX Compliance Solutions is a company that specializes in regulatory compliance and risk management solutions, particularly in the field of Anti-Money Laundering (AML), built with Java as backend and Vue.js as frontend. They offer innovative software designed to help banks and FinTech companies comply with AML regulations and fight against organized crime. Their services include transaction monitoring, machine learning for real-time data analysis, and tools for reporting suspicious activities.",
+    "imgs": [
+      "dxcompliance.png",
+      "dxcompliance2.png"
+    ]
+  },
+  {
+    "id":159,
+    "filter": "filter-fullstack",
+    "category":"Real Estate",
+    "title":"New Build Homes",
+    "img":"new-homes-one.vercel.app.png",
+    "link":"https://new-homes-one.vercel.app/",
+    "client":"",
+    "description":"Browse our listings to find new build homes for sale. Updated frequently with new properties from across the country",
+    "imgs": [
+      "new-homes-one.vercel.app.png",
+      "newbuildhomes.png"
+    ]
+  },
+  {
+    "id":160,
+    "filter": "filter-fullstack",
+    "category":"Real Estate",
+    "title":"Century Communities",
+    "img":"www.centurycommunities.com.png",
+    "link":"https://www.centurycommunities.com/",
+    "client":"",
+    "description":"Century Communities is a prominent homebuilder in the United States, known for offering a wide range of housing options, including single-family homes, townhomes, condos, and paired homes, built with Python Django. They operate in 18 states and over 45 markets, providing a variety of floor plans and quick move-in homes. With a focus on quality and customer satisfaction, they offer a hands-on homebuying process tailored to the needs and lifestyle of their clients. Additionally, they provide in-house services like home loans, title insurance, and home insurance to simplify the homebuying experience.",
+    "imgs": [
+      "www.centurycommunities.com.png",
+      "century1.png"
     ]
   }
 ]

@@ -39,6 +39,6 @@ $(document).ready(function(){
   const idMatch = queryString.match(/id=([^&]*)/);
   console.log("Is match? ", idMatch);
   let id = idMatch ? idMatch[1] : 1;
-  id > 30 ? id = 1: parseInt(id);
+  // id > 30 ? id = 1: parseInt(id);
   getDetails(id);
 });

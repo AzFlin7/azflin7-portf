@@ -1,0 +1,153 @@
+{
+    "id":51,
+    "filter": "filter-game",
+    "category":"Casino Slot Game",
+    "title":"The Dog House",
+    "img":"doghouse1.png",
+    "link":"https://casino.guru/the-dog-house-slot-play-free",
+    "client":"Guru",
+    "description":"In this game development, I participated in the front-end development of the game using godot.Due to my high responsibility and neatness, this game has received a high reputation from users.",
+    "imgs": [
+      "doghouse1.png",
+      "doghouse2.png",
+      "doghouse3.png",
+      "doghouse4.png"
+    ]
+  },
+  {
+    "id":52,
+    "filter": "filter-game",
+    "category":"Casino Slot Game",
+    "title":"Da Vinci’s Treasure Slot Game",
+    "img":"davinci1.png",
+    "link":"https://casino.guru/da-vinci-s-treasure-slot-play-free",
+    "client":"Guru",
+    "description":"In this game development, I participated in the front-end development of the game using godot.Due to my high responsibility and neatness, this game has received a high reputation from users.",
+    "imgs": [
+      "davinci1.png",
+      "davinci2.png",
+      "davinci3.png",
+      "davinci4.png"
+    ]
+  },
+  {
+    "id":53,
+    "filter": "filter-game",
+    "category":"Casino Slot Game",
+    "title":"Wild Depth Slot Game",
+    "img":"wilddepth1.png",
+    "link":"https://casino.guru/wild-depths-slot-play-free",
+    "client":"Guru",
+    "description":"In this game development, I participated in the front-end development of the game using godot. And also developed Back-End using ASP.NET. Due to my high responsibility and neatness, this game has received a high reputation from users.",
+    "imgs": [
+      "wilddepth1.png",
+      "wilddepth2.png",
+      "wilddepth3.png",
+      "wilddepth4.png"
+    ]
+  },
+  {
+    "id":54,
+    "filter": "filter-game",
+    "category":"Card Game",
+    "title":"Poker",
+    "img":"poker1.png",
+    "link":"https://casino.guru/6-up-pocket-poker-play-free",
+    "client":"Guru",
+    "description":"In this game development, I participated in the front-end development of the game using Unity. I received a high reputation from users due to my high design skills.",
+    "imgs": [
+      "poker1.png",
+      "poker2.png",
+      "poker3.png"
+    ]
+  },
+  {
+    "id":55,
+    "filter": "filter-game",
+    "category":"Card Game",
+    "title":"Uno Game",
+    "img":"uno1.png",
+    "link":"https://lagged.com/en/g/uno-multiplayer-free-online",
+    "client":"Guru",
+    "description":"In this game development, I participated in the back-end development of the game using Smart Fox. I received a high feedback from clinet due to my high design skills.",
+    "imgs": [
+      "uno1.png",
+      "uno2.png",
+      "uno3.png",
+      "uno4.png"
+    ]
+  },
+  {
+    "id":56,
+    "filter": "filter-game",
+    "category":"BC Game",
+    "title":"Crash",
+    "img":"crash1.png",
+    "link":"https://stake.us/casino/games/crash",
+    "client":"stake company",
+    "description":"In this game development, I participated in front-end and back-end development of the game using pixiJS and ASP.NET. I received a high reputation from users due to my high design skills and sense of responsibility.",
+    "imgs": [
+      "crash1.png",
+      "crash2.png",
+      "crash3.png"
+    ]
+  },
+  {
+    "id":57,
+    "filter": "filter-game",
+    "category":"BC Game",
+    "title":"Keno",
+    "img":"keno1.png",
+    "link":"https://stake.us/casino/games/keno",
+    "client":"stake company",
+    "description":"In this game development, I participated in front-end and back-end development of the game using pixiJS and ASP.NET. I received a high reputation from users due to my high design skills and sense of responsibility.",
+    "imgs": [
+      "keno1.png",
+      "keno2.png",
+      "keno3.png"
+    ]
+  },
+  {
+    "id":58,
+    "filter": "filter-game",
+    "category":"P2e Game",
+    "title":"Flappybee",
+    "img":"flappybee1.png",
+    "link":"https://flappybee.com",
+    "client":"https://t.me/FlappyBee_BSC",
+    "description":"In this project, i built both frontend & backend, smart contract based on eth. Used MERN stack to store all scores into database and implement reward system using auto withdraw function from backend & smart contract side. Also, built p2e game as flappy and then add some logic to make it fun depending on BEE NFT.",
+    "imgs": [
+      "flappybee1.png",
+      "flappybee2.png",
+      "flappybee3.png"
+    ]
+  },
+  {
+    "id":59,
+    "filter": "filter-game",
+    "category":"Racing Game",
+    "title":"racing-empire",
+    "img":"racing1.png",
+    "link":"https://www.crazygames.com/game/racing-empire",
+    "client":"crazygames.com",
+    "description":"This is a Telegram bot that tracks the transactions of added Ethereum (ETH) and Binance Coin (BNB) wallets and sends notifications whenever a new transaction occurs. The bot uses the Etherscan and BSCscan APIs to gather information about transactions, and CoinGecko to fetch the current prices of ETH and BNB.",
+    "imgs": [
+      "racing1.png",
+      "racing2.png",
+      "racing3.png"
+    ]
+  },
+  {
+    "id":60,
+    "filter": "filter-game",
+    "category":"Blockchain Minimap Game",
+    "title":"Ton Jump Game",
+    "img":"tongame1.png",
+    "link":"https://t.me/tonjump_game",
+    "client":"Vladislav",
+    "description":"While working on this project, I responsible for the in-game sprite store with coin purchase and block purchase system. to briefly introduce this function, all existing and future players will be credited with 2000 coins, of which 500 coins can be spent on building a game level and 1500 coins on purchasing sprites in the store. if a player needs more coins for building a large level, they can purchase coins with TON and spend them on buying various blocks",
+    "imgs": [
+      "tongame1.png",
+      "tongame2.png"
+    ]
+  }
