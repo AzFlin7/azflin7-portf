@@ -1,5 +1,189 @@
 [
   {
+    "id":101,
+    "filter": "filter-blockchain",
+    "category":"Digital collectibles and Rewards Platform",
+    "title":"SHIRTUM W3.0",
+    "img":"shirtum-1.png",
+    "link":"https://shirtum.com/",
+    "client":"The Shirtum team",
+    "description":"Shirtum offers a range of digital collectibles and NFTs, featuring sports teams, players, and other notable figures. Shirtum publishes blog posts and updates related to new collectible releases, platform features, and Web 3.0 developments.",
+    "imgs": [
+      "shirtum-1.png",
+      "shirtum-2.png",
+      "shirtum-3.png",
+      "shirtum-4.png"
+    ]
+  },
+  {
+    "id":102,
+    "filter": "filter-blockchain",
+    "category":"Dex Platform",
+    "title":"WARDEN 3.0 (Still Working)",
+    "img":"warden-1.png",
+    "link":"https://www.wardenswap.finance/",
+    "client":"Tye Frederickson",
+    "description":"WardenSwap is a decentralized exchange that allows users to swap cryptocurrencies without the need for a centralized intermediary.The platform use built-in machine learning algorithms to provide users with the 'Best Price' for their trades. WardenSwap is using advanced pricing models and analytics to optimize trade execution.",
+    "imgs": [
+      "warden-1.png",
+      "warden-2.png",
+      "warden-3.png"
+    ]
+  },
+  {
+      "id":103,
+      "filter": "filter-blockchain",
+      "category":"Blockchain Farming & Marketplace Platform",
+      "title":"Wanaka Farm",
+      "img":"wanaka-1.png",
+      "link":"https://wanakafarm.com/",
+      "client":"Thuan Nguyen",
+      "description":"Wanaka Farm is a blockchain-based virtual farming and marketplace platform.I developed this platfrom utilizes blockchain technology, with contract addresses provided for the WANA, WAI, and LAND tokens.",
+      "imgs": [
+          "wanaka-1.png",
+          "wanaka-2.png",
+          "wanaka-3.png",
+          "wanaka-4.png"
+      ]
+  },
+  {
+      "id":104,
+      "filter": "filter-blockchain",
+      "category":"Telegram MiniApp Bot",
+      "title":"InstaQuiz",
+      "img":"instaquiz-1.png",
+      "link":"https://t.me/IQuizzBot",
+      "client":"Alan. B",
+      "description":"InstaQuiz allows you to take part in exciting real-time quizzes with friends, testing your knowledge in categories ranging from animals to entertainment, movies and video games.",
+      "imgs": [
+          "instaquiz-1.png",
+          "instaquiz-2.png"
+      ]
+  },
+  {
+      "id":105,
+      "filter": "filter-blockchain",
+      "category":"Telegram MiniApp Bot",
+      "title":"WordTLe",
+      "img":"word-1.png",
+      "link":"https://t.me/WordTLeBot/WordTLe",
+      "client":"Ирина",
+      "description":"WordTLe offers a fun experience by giving you six chances to guess a five-letter word. You can challenge your vocabulary with WordTLe a daily mental exercise that will sharpen your linguistic skills.",
+      "imgs": [
+          "word-1.png",
+          "word-2.png",
+          "word-3.png"
+      ]
+  },
+  {
+      "id":106,
+      "filter": "filter-blockchain",
+      "category":"Telegram MiniApp",
+      "title":"Split Simple",
+      "img":"split-1.png",
+      "link":"https://t.me/splitsimplebot",
+      "client":"Chris Foster",
+      "description":"Split Simple is a mini-application for tracking your expenses. To use the bot, simply add @splitsimplebot to your Telegram chat with your friends. With this user-friendly web app, you can easily track all your expenses.",
+      "imgs": [
+          "split-1.png",
+          "split-2.png",
+          "split-3.png",
+          "split-4.png"
+      ]
+  },
+  {
+      "id":107,
+      "filter": "filter-blockchain",
+      "category":"Blockchain Smart Contract & Protocol",
+      "title":"Lunachow",
+      "img":"luna-1.png",
+      "link":"https://www.lunachow.com/",
+      "client":"Damien Takker",
+      "description":"LunaChow is the world’s first crypto protocol leveraging the power of community to build a better token that maximizes fairness and profits. LunaChow is an ERC-20 token built on the Ethereum network, the world’s largest decentralized smart contract ecosystem.",
+      "imgs": [
+          "luna-1.png",
+          "luna-2.png",
+          "luna-3.png",
+          "luna-4.png"
+      ]
+  },
+  {
+      "id":108,
+      "filter": "filter-blockchain",
+      "category":"Blockchain Smart Contract & Protocol",
+      "title":"Casper Pad",
+      "img":"casper-1.png",
+      "link":"https://casper-pad.io/",
+      "client":"Marley.B",
+      "description":"CasperPad is a decentralized fundraising and incubation platform built on the Casper blockchain network and It aims to provide a space for Casper-based projects to raise funds and launch their initial token offerings (ITOs).",
+      "imgs": [
+          "casper-1.png",
+          "casper-2.png",
+          "casper-3.png",
+          "casper-4.png"
+      ]
+  },
+  {
+      "id":109,
+      "filter": "filter-blockchain",
+      "category":"NFT Marketplace",
+      "title":"CellarDAO Society",
+      "img":"cellar-1.png",
+      "link":"https://cellardao.io/",
+      "client":"Ibay Amor",
+      "description":"CellarDAO is a decentralized autonomous organization (DAO) focused on investing in the wine and spirits industry and It aims to provide members with exposure to the wine and spirits market through collective investment and shared ownership.",
+      "imgs": [
+          "cellar-1.png",
+          "cellar-2.png",
+          "cellar-3.png"
+      ]
+  },
+  {
+      "id":110,
+      "filter": "filter-blockchain",
+      "category":"Blockchain Wallet",
+      "title":"Wigwam",
+      "img":"wig-1.png",
+      "link":"https://wigwam.app/",
+      "client":"Bohdan Zhyhun",
+      "description":"Wigwam is a Web3 wallet that is secure, simple, and superior. It is designed to be a feature-rich crypto wallet for the decentralized world. Overall, Wigwam is a robust and feature-rich Web3 wallet focused on providing a secure, simple, and superior user experience across multiple blockchain networks.",
+      "imgs": [
+          "wig-1.png",
+          "wig-2.png",
+          "wig-3.png"
+      ]
+  },
+  {
+      "id":111,
+      "filter": "filter-blockchain",
+      "category":"Dex Platform",
+      "title":"Trader Joe",
+      "img":"joe-1.png",
+      "link":"https://traderjoexyz.com/",
+      "client":"Oleh Khalin",
+      "description":"Trader Joe XYZ is a leading decentralized exchange built on the Avalanche blockchain, offering a range of DeFi features and services to its users.",
+      "imgs": [
+          "joe-1.png",
+          "joe-2.png",
+          "joe-3.png"
+      ]
+  },
+  {
+      "id":112,
+      "filter": "filter-blockchain",
+      "category":"Telegram MiniApp Game",
+      "title":"Cat Paradise",
+      "img":"cat-1.png",
+      "link":"https://t.me/CatParadiseBot",
+      "client":"",
+      "description":"CatParadise is a P2E game in the Telegram web app ecosystem which promise fun, competitive play and the chance to earn rewards. You can connect your TON wallet and start enjoying the seamless integration of gaming and earning.",
+      "imgs": [
+          "cat-1.png",
+          "cat-2.png",
+          "cat-3.png"
+      ]
+  },
+  {
     "id":1,
     "filter": "filter-blockchain",
     "category":"Crypto game, NFT Game",
