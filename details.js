@@ -15,6 +15,8 @@ function getDetails(index) {
           swiper_slide.appendChild(slide_img);
           swiper_slide_wrapper.appendChild(swiper_slide);
         }
+        const header_title = document.getElementById('project_title');
+        header_title.innerHTML = item.title;
         const title = document.getElementById('title');
         title.innerHTML = item.title;
         const category = document.getElementById('category');
