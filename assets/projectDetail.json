@@ -217,27 +217,14 @@
     "filter": "filter-fullstack",
     "category":"Finance",
     "title":"BONOKEY",
-    "img":"bonokey.jpg",
+    "img":"bonokey.png",
     "link":"https://bonokey.com/",
     "client":"",
     "description":"Bonokey.com emerges as a pioneering digital platform dedicated to demystifying the banking landscape of Saudi Arabia for its users. With a commitment to providing comprehensive, up-to-date information on various banks across the kingdom, Bonokey.com stands as a critical resource for anyone looking to navigate the complexities of banking services. This platform is meticulously crafted using cutting-edge technologies such as Next.js , PostgreSQL, and ChatGPT-4, supplemented by advanced SEO strategies and the Prisma ORM, to ensure a seamless, informative, and interactive user experience.",
     "imgs": [
-      "bonokey.jpg",
-      "bonokey2.jpg"
-    ]
-  },
-  {
-    "id":6,
-    "filter": "filter-blockchain",
-    "category":"DeFi, Swap Serices, Smart Contract, Marketplace Development",
-    "title":"Token Staking progam - Pocket Change",
-    "img":"staking1.jpg",
-    "link":"https://pocketchange.host/",
-    "client":"Pocket Change",
-    "description":"Token Staking Staking program, such as the length of the staking period, the rewards structure, and the minimum and maximum staking amounts. Design the token staking smart contract, including the logic for calculating rewards, distributing rewards to stakers, and handling the release of staked tokens. Demo: https://pocketchange.host/ - Token trading - Smart contract - Marketplace development - Reward system implementation - Swap services - DeFi development",
-    "imgs": [
-      "staking1.jpg",
-      "staking2.webp"
+      "bonokey.png",
+      "bonokey2.jpg",
+      "bonokey3.jpg"
     ]
   },
   {
