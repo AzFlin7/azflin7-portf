@@ -32,6 +32,21 @@
     ]
   },
   {
+    "id":49,
+    "filter": "filter-blockchain",
+    "category":"NFT Marketplace",
+    "title":"Hex Toys - NFT marketplace",
+    "img":"hextoys-1.png",
+    "link":"https://marketplace.hex.toys/",
+    "client":"HexToys",
+    "description":"HEX TOYS is the ultimate NFT marketplace on PulseChain, offering generous rewards. Buy, sell, and trade unique digital collectibles.",
+    "imgs": [
+      "hextoys-1.png",
+      "hextoys-2.png",
+      "hextoys-3.png"
+    ]
+  },
+  {
       "id":104,
       "filter": "filter-blockchain",
       "category":"Telegram MiniApp Bot",
@@ -103,22 +118,7 @@
           "luna-4.png"
       ]
   },
-  {
-    "id":53,
-    "filter": "filter-game",
-    "category":"Casino Slot Game",
-    "title":"Wild Depth Slot Game",
-    "img":"wilddepth1.png",
-    "link":"https://casino.guru/wild-depths-slot-play-free",
-    "client":"Guru",
-    "description":"In this game development, I participated in the front-end development of the game using godot. And also developed Back-End using ASP.NET. Due to my high responsibility and neatness, this game has received a high reputation from users.",
-    "imgs": [
-      "wilddepth1.png",
-      "wilddepth2.png",
-      "wilddepth3.png",
-      "wilddepth4.png"
-    ]
-  },
+  
   {
     "id":51,
     "filter": "filter-game",
@@ -151,8 +151,6 @@
           "casper-4.png"
       ]
   },
-  
-  
   {
       "id":112,
       "filter": "filter-blockchain",
@@ -167,6 +165,22 @@
           "cat-2.png",
           "cat-3.png"
       ]
+  },
+  {
+    "id":53,
+    "filter": "filter-game",
+    "category":"Casino Slot Game",
+    "title":"Wild Depth Slot Game",
+    "img":"wilddepth1.png",
+    "link":"https://casino.guru/wild-depths-slot-play-free",
+    "client":"Guru",
+    "description":"In this game development, I participated in the front-end development of the game using godot. And also developed Back-End using ASP.NET. Due to my high responsibility and neatness, this game has received a high reputation from users.",
+    "imgs": [
+      "wilddepth1.png",
+      "wilddepth2.png",
+      "wilddepth3.png",
+      "wilddepth4.png"
+    ]
   },
   {
     "id":1,
