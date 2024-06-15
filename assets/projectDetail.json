@@ -2,17 +2,16 @@
   {
     "id":101,
     "filter": "filter-blockchain",
-    "category":"Digital collectibles and Rewards Platform",
-    "title":"SHIRTUM W3.0",
-    "img":"shirtum-1.png",
-    "link":"https://shirtum.com/",
+    "category":"Crypto Wallet Development",
+    "title":"Custom Metamask",
+    "img":"custom_metamask_1.png",
+    "link":"https://github.com/AzFlin7/LoveTap-Telegram-Mini-app-frontend",
     "client":"The Shirtum team",
-    "description":"Shirtum offers a range of digital collectibles and NFTs, featuring sports teams, players, and other notable figures. Shirtum publishes blog posts and updates related to new collectible releases, platform features, and Web 3.0 developments.",
+    "description":"I implemented a remote kind of account on the metamask wallet, which means all the private keys are saved on the server and all the transactions and messages are being signed on the backend. So to do this, I had to build a customized keyring script and add it to the Keyring Controller. To elaborate further, I have an approve/decline feature on the backend and it gives the benefit to manage all the accounts on the server.",
     "imgs": [
-      "shirtum-1.png",
-      "shirtum-2.png",
-      "shirtum-3.png",
-      "shirtum-4.png"
+      "custom_metamask_1.png",
+      "custom_metamask_2.png",
+      "custom_metamask_3.png"
     ]
   },
   {
@@ -23,7 +22,7 @@
     "img":"rarible-1.png",
     "link":"https://rarible.com/",
     "client":"Rarible",
-    "description":"Online marketplace offers a platform for users to securely buy, sell, and discover digital assets. It features a wide range of collections, including art, fashion, science, and gaming.",
+    "description":"Online marketplace offers a platform for users to securely buy, sell, and discover digital assets. It features a wide range of collections, including art, fashion, science, and gaming. At first, I developed the individual Color mesium NFT marketplace. After then I created The color NFT collection in Rarible.",
     "imgs": [
       "rarible-1.png",
       "rarible-2.png",
@@ -47,18 +46,19 @@
     ]
   },
   {
-      "id":104,
-      "filter": "filter-blockchain",
-      "category":"Telegram MiniApp Bot",
-      "title":"InstaQuiz",
-      "img":"instaquiz-1.png",
-      "link":"https://t.me/IQuizzBot",
-      "client":"Alan. B",
-      "description":"InstaQuiz allows you to take part in exciting real-time quizzes with friends, testing your knowledge in categories ranging from animals to entertainment, movies and video games.",
-      "imgs": [
-          "instaquiz-1.png",
-          "instaquiz-2.png"
-      ]
+    "id":104,
+    "filter": "filter-blockchain",
+    "category":"Telegram Bot",
+    "title":"Arrest Warrant Bot",
+    "img":"posterbot-1.png",
+    "link":"https://t.me/arrest_warrant_bot",
+    "client":"Admiral Chris (https://t.me/Grhgt_og)",
+    "description":"A wanted poster generate telegram bot for $wanted meme coin and its community",
+    "imgs": [
+        "posterbot-1.png",
+        "posterbot-2.png",
+        "posterbot-3.png"
+    ]
   },
   {
     "id":151,
@@ -149,34 +149,19 @@
     ]
   },
   {
-      "id":108,
-      "filter": "filter-blockchain",
-      "category":"Blockchain Smart Contract & Protocol",
-      "title":"Casper Pad",
-      "img":"casper-1.png",
-      "link":"https://casper-pad.io/",
-      "client":"Marley.B",
-      "description":"CasperPad is a decentralized fundraising and incubation platform built on the Casper blockchain network and It aims to provide a space for Casper-based projects to raise funds and launch their initial token offerings (ITOs).",
-      "imgs": [
-          "casper-1.png",
-          "casper-2.png",
-          "casper-3.png",
-          "casper-4.png"
-      ]
-  },
-  {
       "id":112,
       "filter": "filter-blockchain",
-      "category":"Telegram MiniApp Game",
-      "title":"Cat Paradise",
-      "img":"cat-1.png",
-      "link":"https://t.me/CatParadiseBot",
-      "client":"",
-      "description":"CatParadise is a P2E game in the Telegram web app ecosystem which promise fun, competitive play and the chance to earn rewards. You can connect your TON wallet and start enjoying the seamless integration of gaming and earning.",
+      "category":"Telegram Clicker Mini App",
+      "title":"Love Tap",
+      "img":"LoveTap_1.png",
+      "link":"https://t.me/lovetap_test_local_bot",
+      "client":"Karia (Ben) Samaroo - WonderFi",
+      "description":"A Telegram mini-app where 32 virtual women are in a bracket-style competition to win a date with the Bachelor. Each week there are match-ups, and users get to vote on which women advance to the next round. At the end, whoever wins the bracket gets the Bachelor. ",
       "imgs": [
-          "cat-1.png",
-          "cat-2.png",
-          "cat-3.png"
+          "LoveTap_1.png",
+          "LoveTap_2.png",
+          "LoveTap_3.png",
+          "LoveTap_4.png"
       ]
   },
   {
@@ -210,19 +195,6 @@
       "wildwarz-3.png",
       "wildwarz-4.png",
       "wildwarz-5.png"
-    ]
-  },
-  {
-    "id":2,
-    "filter": "filter-blockchain",
-    "category":"Smart Contract Development",
-    "title":"ERC404 Smart Contract Development",
-    "img":"erc404.webp",
-    "link":"https://opensea.io/collection/project-2049",
-    "client":"4614FE (Opensea User)",
-    "description":"Writed an ERC404 smart contract. Deployed this on ethereum mainnet. Listed NFTs on opensea. Made a liquidity on Uniswap V3. Please check this tokesn on dextool Deployment link: https://opensea.io/collection/project-2049",
-    "imgs": [
-      "erc404.webp"
     ]
   },
   {
@@ -363,24 +335,9 @@
     ]
   },
   {
-    "id":109,
-    "filter": "filter-blockchain",
-    "category":"NFT Marketplace",
-    "title":"CellarDAO Society",
-    "img":"cellar-1.png",
-    "link":"https://cellardao.io/",
-    "client":"Ibay Amor",
-    "description":"CellarDAO is a decentralized autonomous organization (DAO) focused on investing in the wine and spirits industry and It aims to provide members with exposure to the wine and spirits market through collective investment and shared ownership.",
-    "imgs": [
-        "cellar-1.png",
-        "cellar-2.png",
-        "cellar-3.png"
-    ]
-  },
-  {
       "id":110,
       "filter": "filter-blockchain",
-      "category":"Blockchain Wallet",
+      "category":"Crypto Wallet",
       "title":"Wigwam",
       "img":"wig-1.png",
       "link":"https://wigwam.app/",
@@ -439,37 +396,6 @@
     ]
   },
   {
-    "id":105,
-    "filter": "filter-blockchain",
-    "category":"Telegram MiniApp Bot",
-    "title":"WordTLe",
-    "img":"word-1.png",
-    "link":"https://t.me/WordTLeBot/WordTLe",
-    "client":"Ирина",
-    "description":"WordTLe offers a fun experience by giving you six chances to guess a five-letter word. You can challenge your vocabulary with WordTLe a daily mental exercise that will sharpen your linguistic skills.",
-    "imgs": [
-        "word-1.png",
-        "word-2.png",
-        "word-3.png"
-    ]
-  },
-  {
-      "id":106,
-      "filter": "filter-blockchain",
-      "category":"Telegram MiniApp",
-      "title":"Split Simple",
-      "img":"split-1.png",
-      "link":"https://t.me/splitsimplebot",
-      "client":"Chris Foster",
-      "description":"Split Simple is a mini-application for tracking your expenses. To use the bot, simply add @splitsimplebot to your Telegram chat with your friends. With this user-friendly web app, you can easily track all your expenses.",
-      "imgs": [
-          "split-1.png",
-          "split-2.png",
-          "split-3.png",
-          "split-4.png"
-      ]
-  },
-  {
     "id":56,
     "filter": "filter-game",
     "category":"BC Game",
@@ -499,21 +425,6 @@
       "keno3.png"
     ]
   },
-  {
-    "id":111,
-    "filter": "filter-blockchain",
-    "category":"Dex Platform",
-    "title":"Trader Joe",
-    "img":"joe-1.png",
-    "link":"https://traderjoexyz.com/",
-    "client":"Oleh Khalin",
-    "description":"Trader Joe XYZ is a leading decentralized exchange built on the Avalanche blockchain, offering a range of DeFi features and services to its users.",
-    "imgs": [
-        "joe-1.png",
-        "joe-2.png",
-        "joe-3.png"
-    ]
-  },  
   {
     "id":58,
     "filter": "filter-game",
